@@ -1,0 +1,29 @@
+ button {
+    background-color: white;
+    color: #121619;
+    margin-bottom: 30px;
+  }
+button:hover {
+    background-color: rgb(225, 225, 225);
+    color: rgb(255, 255, 255);
+  }
+button {
+    color: rgb(53, 48, 48);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #404142;
+    height: 35px;
+    width: 160px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0px 70px;
+  }
+  
+button:hover {
+    background-color: #040203;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+  }
