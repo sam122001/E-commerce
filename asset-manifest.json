@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Js-E-commerce-Project/static/css/main.bb75635f.css",
+    "main.js": "/React-Js-E-commerce-Project/static/js/main.a73e764c.js",
+    "static/js/787.c6006e9a.chunk.js": "/React-Js-E-commerce-Project/static/js/787.c6006e9a.chunk.js",
+    "static/media/contact.jpg": "/React-Js-E-commerce-Project/static/media/contact.36d9ab89f95e40b73221.jpg",
+    "static/media/about2.jpg": "/React-Js-E-commerce-Project/static/media/about2.4957d977fd660bc88f60.jpg",
+    "static/media/dragon.jpg": "/React-Js-E-commerce-Project/static/media/dragon.d6f10f503c2b2a397348.jpg",
+    "static/media/abot1.jpg": "/React-Js-E-commerce-Project/static/media/abot1.33ee3c3d0fa73caf1fdb.jpg",
+    "static/media/about3.jpg": "/React-Js-E-commerce-Project/static/media/about3.c38ad208cc13f2b7aa38.jpg",
+    "static/media/about.jpg": "/React-Js-E-commerce-Project/static/media/about.a5cb6d49d86f5b904e21.jpg",
+    "static/media/Art.jpg": "/React-Js-E-commerce-Project/static/media/Art.aeec2cc716d617f8b58a.jpg",
+    "index.html": "/React-Js-E-commerce-Project/index.html",
+    "main.bb75635f.css.map": "/React-Js-E-commerce-Project/static/css/main.bb75635f.css.map",
+    "main.a73e764c.js.map": "/React-Js-E-commerce-Project/static/js/main.a73e764c.js.map",
+    "787.c6006e9a.chunk.js.map": "/React-Js-E-commerce-Project/static/js/787.c6006e9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb75635f.css",
+    "static/js/main.a73e764c.js"
+  ]
+}
